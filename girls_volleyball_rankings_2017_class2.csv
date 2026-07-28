@@ -1,0 +1,104 @@
+School,OFF Rating,DEF Rating,OVR Rating,OFF Rank,DEF Rank,OVR Rank
+St. Pius X (Festus),1.55,1.51,3.06,1,1,1
+Hermann,1.27,1.22,2.5,2,2,2
+Arcadia Valley,0.98,0.97,1.95,4,3,3
+Bloomfield,1.0,0.93,1.92,3,4,4
+Saxony Lutheran,0.89,0.79,1.69,5,6,5
+Fair Grove,0.79,0.82,1.62,7,5,6
+Fatima,0.7,0.76,1.46,8,7,7
+Summit Christian Academy,0.83,0.56,1.39,6,9,8
+Jefferson (Festus),0.67,0.58,1.25,9,8,9
+St. Michael the Archangel,0.55,0.47,1.01,10,10,10
+Woodland,0.54,0.39,0.93,12,13,11
+Liberty (Mountain View),0.52,0.39,0.91,13,14,12
+Bishop LeBlond,0.54,0.3,0.84,11,16,13
+Malden,0.39,0.44,0.83,15,11,14
+Adrian,0.3,0.4,0.7,17,12,15
+Butler,0.37,0.18,0.55,16,19,16
+Grandview (Hillsboro),0.28,0.27,0.55,19,17,17
+Clever,0.17,0.31,0.48,20,15,18
+Barstow,0.4,0.07,0.47,14,24,19
+Whitfield,0.3,0.09,0.4,18,23,20
+Lamar,0.11,0.22,0.33,21,18,21
+Licking,0.09,0.1,0.19,22,22,22
+West County,0.05,0.11,0.15,25,21,23
+Maplewood-Richmond Hts.,0.05,0.06,0.11,24,25,24
+Lexington,0.04,0.05,0.08,27,26,25
+Windsor,0.06,0.02,0.08,23,27,26
+Holden,0.01,0.01,0.02,31,28,27
+Willow Springs,0.03,-0.04,-0.01,28,31,28
+New Heights Christian,0.02,-0.05,-0.02,30,32,29
+Cole Camp,0.04,-0.07,-0.03,26,33,30
+Metro,-0.19,0.12,-0.07,41,20,31
+Sparta,0.03,-0.11,-0.09,29,39,32
+Ash Grove,-0.1,-0.0,-0.1,37,29,33
+Cabool,-0.01,-0.1,-0.11,32,36,34
+Mid-Buchanan,-0.05,-0.07,-0.12,35,34,35
+Brentwood,-0.1,-0.02,-0.12,38,30,36
+East Buchanan,-0.06,-0.09,-0.15,36,35,37
+Lawson,-0.03,-0.17,-0.2,34,41,38
+Centralia,-0.12,-0.13,-0.25,39,40,39
+Eugene,-0.01,-0.25,-0.26,33,45,40
+Trinity Catholic,-0.19,-0.11,-0.29,40,37,41
+Lutheran North,-0.25,-0.11,-0.35,43,38,42
+Hallsville,-0.2,-0.21,-0.41,42,42,43
+El Dorado Springs,-0.27,-0.23,-0.5,46,44,44
+Sarcoxie,-0.31,-0.21,-0.52,47,43,45
+Skyline,-0.26,-0.37,-0.63,44,49,46
+Montgomery County,-0.26,-0.38,-0.64,45,50,47
+Clearwater,-0.36,-0.35,-0.72,50,47,48
+Crossroads College Preparatory,-0.35,-0.4,-0.75,49,51,49
+St. Paul Lutheran (Concordia),-0.45,-0.33,-0.78,56,46,50
+Crane,-0.38,-0.42,-0.8,51,53,51
+Father Tolton,-0.41,-0.4,-0.81,53,52,52
+Linn,-0.46,-0.36,-0.82,57,48,53
+Greenville,-0.42,-0.45,-0.87,55,55,54
+Spokane,-0.34,-0.53,-0.87,48,59,55
+Versailles,-0.41,-0.47,-0.88,54,56,56
+Stockton,-0.4,-0.57,-0.97,52,60,57
+Warsaw,-0.48,-0.5,-0.98,58,58,58
+Knob Noster,-0.56,-0.5,-1.06,60,57,59
+Lathrop,-0.62,-0.44,-1.06,62,54,60
+Sherwood,-0.55,-0.65,-1.19,59,61,61
+Diamond,-0.59,-0.65,-1.24,61,64,62
+Portageville,-0.65,-0.65,-1.3,63,62,63
+Bowling Green,-0.68,-0.65,-1.34,65,65,64
+Puxico,-0.69,-0.68,-1.37,66,66,65
+Carnahan,-0.66,-0.72,-1.37,64,68,66
+Caruthersville,-0.73,-0.65,-1.38,67,63,67
+Hancock,-0.75,-0.76,-1.5,69,69,68
+Houston,-0.82,-0.71,-1.52,71,67,69
+Plattsburg,-0.77,-0.83,-1.59,70,71,70
+Kingston,-0.74,-0.87,-1.61,68,75,71
+Senath-Hornersville,-0.9,-0.78,-1.69,76,70,72
+Lafayette County,-0.85,-0.87,-1.71,72,74,73
+Gateway Science Charter,-0.85,-0.86,-1.71,73,72,74
+North Callaway,-0.86,-0.91,-1.78,75,77,75
+Forsyth,-0.85,-0.94,-1.8,74,79,76
+Tipton,-0.94,-0.93,-1.87,77,78,77
+Principia,-1.03,-0.86,-1.89,81,73,78
+Valley Park,-1.0,-0.91,-1.92,80,76,79
+Marionville,-0.98,-0.95,-1.93,79,80,80
+Trenton,-1.03,-0.97,-2.0,82,82,81
+Conway,-1.04,-0.98,-2.02,83,83,82
+Belle,-1.08,-0.96,-2.04,85,81,83
+Collegiate School of Med-Bio Science,-1.06,-1.08,-2.14,84,84,84
+University Academy Charter,-0.96,-1.2,-2.16,78,88,85
+Carrollton,-1.11,-1.15,-2.26,87,86,86
+Cardinal Ritter,-1.11,-1.19,-2.3,86,87,87
+Purdy,-1.18,-1.13,-2.32,90,85,88
+North Platte,-1.18,-1.21,-2.39,91,89,89
+Hayti,-1.18,-1.24,-2.41,89,91,90
+Southwest (Washburn),-1.15,-1.39,-2.54,88,94,91
+Bourbon,-1.32,-1.22,-2.54,93,90,92
+Charleston,-1.22,-1.35,-2.57,92,92,93
+Dixon,-1.51,-1.37,-2.88,95,93,94
+Penney,-1.55,-1.49,-3.04,97,95,95
+Cleveland NJROTC,-1.48,-1.59,-3.07,94,98,96
+McKinley Classical Leadership,-1.55,-1.51,-3.07,98,96,97
+Pleasant Hope,-1.52,-1.58,-3.1,96,97,98
+Brookfield,-1.81,-1.62,-3.43,100,99,99
+North Technical,-1.77,-1.71,-3.47,99,100,100
+Transportation and Law,-1.89,-1.86,-3.75,101,101,101
+South Harrison,-1.9,-2.02,-3.91,102,102,102
+Frontier School of Excellence Charter,-2.12,-2.04,-4.16,103,103,103
